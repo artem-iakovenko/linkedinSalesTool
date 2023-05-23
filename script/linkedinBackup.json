@@ -1,0 +1,1856 @@
+{
+    "potentials": {
+        "1576533000225258001": {
+            "name": "Book of the Month - team extension",
+            "accountLinkedIn": "https://www.linkedin.com/company/book-of-the-month/about",
+            "salesOwner": "Anton Dobroditsky",
+            "deliveryOwner": "Daria Lykhanska",
+            "contacts": [
+                {
+                    "contactId": "1576533000220597607",
+                    "contactName": "Cristian Vergara",
+                    "contactLinkedIn": "https://www.linkedin.com/in/cristian-vergara-9588aa78",
+                    "mailingDay": "2023-01-30",
+                    "featured": [],
+                    "activity": [
+                        {
+                            "link": "https://www.linkedin.com/feed/update/urn:li:activity:7046187401060184064",
+                            "keywordsFound": "hiring"
+                        },
+                        {
+                            "link": "https://www.linkedin.com/feed/update/urn:li:activity:6919726243768623105",
+                            "keywordsFound": "hiring"
+                        }
+                    ]
+                }
+            ],
+            "jobs": []
+        },
+        "1576533000217304013": {
+            "name": "Unbench - KITRUM's platform (old kitrum.dev)",
+            "accountLinkedIn": false,
+            "salesOwner": "",
+            "deliveryOwner": "",
+            "contacts": [],
+            "jobs": []
+        },
+        "1576533000214706418": {
+            "name": "TimelyMD - team extension",
+            "accountLinkedIn": "http://www.linkedin.com/company/timelymd",
+            "salesOwner": "Anton Dobroditsky",
+            "deliveryOwner": "Maria Lutsenko",
+            "contacts": [
+                {
+                    "contactId": "1576533000139557145",
+                    "contactName": "Noel Geren",
+                    "contactLinkedIn": "http://www.linkedin.com/in/ngeren",
+                    "mailingDay": "2023-03-07",
+                    "featured": [],
+                    "activity": [
+                        {
+                            "link": "https://www.linkedin.com/feed/update/urn:li:activity:7049881769331863552",
+                            "keywordsFound": "hiring"
+                        },
+                        {
+                            "link": "https://www.linkedin.com/feed/update/urn:li:activity:7034767300696162304",
+                            "keywordsFound": "hiring"
+                        },
+                        {
+                            "link": "https://www.linkedin.com/feed/update/urn:li:activity:7011073676250947585",
+                            "keywordsFound": "hiring"
+                        }
+                    ]
+                }
+            ],
+            "jobs": []
+        },
+        "1576533000201257437": {
+            "name": "Jayex Technology - PHP -JS",
+            "accountLinkedIn": "http://www.linkedin.com/company/jayex-technology",
+            "salesOwner": "Maryna Isaeva",
+            "deliveryOwner": "Mariia Kuchuhurna",
+            "contacts": [
+                {
+                    "contactId": "1576533000196279031",
+                    "contactName": "Rob Hadley",
+                    "contactLinkedIn": "http://www.linkedin.com/in/rob-hadley-08552a2",
+                    "mailingDay": "2022-11-24",
+                    "featured": [],
+                    "activity": []
+                },
+                {
+                    "contactId": "1576533000235062513",
+                    "contactName": "Darryn Hart",
+                    "contactLinkedIn": "https://www.linkedin.com/in/darrynhart",
+                    "mailingDay": null,
+                    "featured": [],
+                    "activity": []
+                }
+            ],
+            "jobs": []
+        },
+        "1576533000197620058": {
+            "name": "Influize - Outsource",
+            "accountLinkedIn": "https://www.linkedin.com/company/commentsold",
+            "salesOwner": "Igor Golovko",
+            "deliveryOwner": "Sofiia Kubynets",
+            "contacts": [
+                {
+                    "contactId": "1576533000195053585",
+                    "contactName": "Steven Power",
+                    "contactLinkedIn": "https://www.linkedin.com/in/stevenrpower",
+                    "mailingDay": "2022-11-16",
+                    "featured": [
+                        {
+                            "name": "Forbes Interview",
+                            "type": "Image",
+                            "link": "https://www.linkedin.com/in/stevenrpower/details/featured/50028233/single-media-viewer?type=IMAGE&profileId=ACoAAACPB3sBEMRImEBmCPJmN1JPHoMeTY8ULAM",
+                            "keywordsFound": "interview"
+                        },
+                        {
+                            "name": "Fast Company Interview",
+                            "type": "Image",
+                            "link": "https://www.linkedin.com/in/stevenrpower/details/featured/50028231/single-media-viewer?type=IMAGE&profileId=ACoAAACPB3sBEMRImEBmCPJmN1JPHoMeTY8ULAM",
+                            "keywordsFound": "interview"
+                        }
+                    ],
+                    "activity": [
+                        {
+                            "link": "https://www.linkedin.com/feed/update/urn:li:activity:7054304174133440512",
+                            "keywordsFound": "investment"
+                        },
+                        {
+                            "link": "https://www.linkedin.com/feed/update/urn:li:activity:7050382314182184960",
+                            "keywordsFound": "hiring"
+                        }
+                    ]
+                },
+                {
+                    "contactId": "1576533000228220595",
+                    "contactName": "Devon Hicks",
+                    "contactLinkedIn": false,
+                    "mailingDay": null,
+                    "featured": [],
+                    "activity": []
+                }
+            ],
+            "jobs": [
+                {
+                    "jobTitle": "Senior PHP Developer",
+                    "jobLink": "https://www.linkedin.com/jobs/view/3583458570/?alternateChannel=search&refId=vyLQ6Pc5zDf%2FvcTq5pQIIA%3D%3D&trackingId=6m0C3nO%2Bi4HPOJnnA4Z1RQ%3D%3D&trk=d_flagship3_search_srp_jobs",
+                    "postedDate": "3 weeks ago ",
+                    "technologies": "PHP, Laravel, Ruby, Django"
+                },
+                {
+                    "jobTitle": "Software Engineer - Full Stack",
+                    "jobLink": "https://www.linkedin.com/jobs/view/3586325647/?alternateChannel=search&refId=vyLQ6Pc5zDf%2FvcTq5pQIIA%3D%3D&trackingId=sDIEy9GfJrynkfEozKbSpw%3D%3D&trk=d_flagship3_search_srp_jobs",
+                    "postedDate": "4 weeks ago ",
+                    "technologies": "PHP, Laravel, Ruby, Django, Spring"
+                }
+            ]
+        },
+        "1576533000195935893": {
+            "name": "Evergen - team extension",
+            "accountLinkedIn": "http://www.linkedin.com/company/evergen",
+            "salesOwner": "Anton Dobroditsky",
+            "deliveryOwner": "Maria Lutsenko",
+            "contacts": [
+                {
+                    "contactId": "1576533000153080454",
+                    "contactName": "Adrian Hennelly",
+                    "contactLinkedIn": false,
+                    "mailingDay": "2022-08-26",
+                    "featured": [],
+                    "activity": []
+                }
+            ],
+            "jobs": []
+        },
+        "1576533000191842103": {
+            "name": "VenElite - Discovery - MVP2",
+            "accountLinkedIn": false,
+            "salesOwner": "Maryna Isaeva",
+            "deliveryOwner": "Maria Lutsenko",
+            "contacts": [
+                {
+                    "contactId": "1576533000123533212",
+                    "contactName": "Ramon Juraboev",
+                    "contactLinkedIn": false,
+                    "mailingDay": null,
+                    "featured": [],
+                    "activity": []
+                }
+            ],
+            "jobs": []
+        },
+        "1576533000190992058": {
+            "name": "Redecor - VR Project (POC)",
+            "accountLinkedIn": "https://www.linkedin.com/company/1919232",
+            "salesOwner": "Igor Golovko",
+            "deliveryOwner": "Snizhana Shevchenko",
+            "contacts": [
+                {
+                    "contactId": "1576533000122167131",
+                    "contactName": "Yevgeniy Maiboroda",
+                    "contactLinkedIn": false,
+                    "mailingDay": null,
+                    "featured": [],
+                    "activity": []
+                }
+            ],
+            "jobs": [
+                {
+                    "jobTitle": "Software Engineer (TypeScript)",
+                    "jobLink": "https://www.linkedin.com/jobs/view/3608199548/?alternateChannel=search&refId=NGGHLyK%2Bk%2FxTRGsaI%2FLvrA%3D%3D&trackingId=zr0LbRR%2FYfWz9WjjEAyBDA%3D%3D&trk=d_flagship3_search_srp_jobs",
+                    "postedDate": "14 hours ago ",
+                    "technologies": "TypeScript, JavaScript, .NET, C#"
+                },
+                {
+                    "jobTitle": "React Developer",
+                    "jobLink": "https://www.linkedin.com/jobs/view/3608196847/?alternateChannel=search&refId=NGGHLyK%2Bk%2FxTRGsaI%2FLvrA%3D%3D&trackingId=KQTY5xx9WWJTXuw9H5WFug%3D%3D&trk=d_flagship3_search_srp_jobs",
+                    "postedDate": "14 hours ago ",
+                    "technologies": "React, TypeScript"
+                },
+                {
+                    "jobTitle": "Client Developer (C# and Typescript)",
+                    "jobLink": "https://www.linkedin.com/jobs/view/3614564523/?alternateChannel=search&refId=NGGHLyK%2Bk%2FxTRGsaI%2FLvrA%3D%3D&trackingId=ydH7raMY%2BY5XWS9K0PjBCQ%3D%3D&trk=d_flagship3_search_srp_jobs",
+                    "postedDate": "23 hours ago ",
+                    "technologies": "C#, TypeScript, .NET, JavaScript"
+                },
+                {
+                    "jobTitle": "Java Software Engineer",
+                    "jobLink": "https://www.linkedin.com/jobs/view/3487190402/?alternateChannel=search&refId=NGGHLyK%2Bk%2FxTRGsaI%2FLvrA%3D%3D&trackingId=wbXasBrCERTEaRNDlbyt8w%3D%3D&trk=d_flagship3_search_srp_jobs",
+                    "postedDate": "1 week ago ",
+                    "technologies": "Java, Spring"
+                },
+                {
+                    "jobTitle": "Senior Unity Developer",
+                    "jobLink": "https://www.linkedin.com/jobs/view/3541524032/?alternateChannel=search&refId=NGGHLyK%2Bk%2FxTRGsaI%2FLvrA%3D%3D&trackingId=%2Bczx78G0gkvBvSPEgFAcfw%3D%3D&trk=d_flagship3_search_srp_jobs",
+                    "postedDate": "1 week ago ",
+                    "technologies": "C#, C++"
+                }
+            ]
+        },
+        "1576533000190780616": {
+            "name": "Zenhub - team extension",
+            "accountLinkedIn": "https://www.linkedin.com/company/zenhub",
+            "salesOwner": "Anton Dobroditsky",
+            "deliveryOwner": "Daria Riumina",
+            "contacts": [
+                {
+                    "contactId": "1576533000138826317",
+                    "contactName": "Ev Haus",
+                    "contactLinkedIn": "https://www.linkedin.com/in/evhaus",
+                    "mailingDay": "2021-12-07",
+                    "featured": [],
+                    "activity": [
+                        {
+                            "link": "https://www.linkedin.com/feed/update/urn:li:activity:6980912799854026754",
+                            "keywordsFound": "hiring"
+                        }
+                    ]
+                },
+                {
+                    "contactId": "1576533000189744856",
+                    "contactName": "Tyler Gaffney",
+                    "contactLinkedIn": "https://www.linkedin.com/in/tylergaffney",
+                    "mailingDay": "2022-02-22",
+                    "featured": [],
+                    "activity": [
+                        {
+                            "link": "https://www.linkedin.com/feed/update/urn:li:activity:7039625125905723392",
+                            "keywordsFound": "series a"
+                        }
+                    ]
+                },
+                {
+                    "contactId": "1576533000217181071",
+                    "contactName": "Salman Taghiakbari",
+                    "contactLinkedIn": false,
+                    "mailingDay": null,
+                    "featured": [],
+                    "activity": []
+                }
+            ],
+            "jobs": []
+        },
+        "1576533000189550877": {
+            "name": "Redguard - Full-stack",
+            "accountLinkedIn": "https://www.linkedin.com/company/redguard-ag",
+            "salesOwner": "Igor Golovko",
+            "deliveryOwner": "Mariia Kuchuhurna",
+            "contacts": [
+                {
+                    "contactId": "1576533000063245107",
+                    "contactName": "Sven Vetsch",
+                    "contactLinkedIn": "https://www.linkedin.com/in/disenchant",
+                    "mailingDay": "2021-01-19",
+                    "featured": [],
+                    "activity": []
+                }
+            ],
+            "jobs": []
+        },
+        "1576533000188545043": {
+            "name": "Franatech-outsource-data-repository",
+            "accountLinkedIn": "http://www.linkedin.com/company/franatech-gmbh",
+            "salesOwner": "Maryna Isaeva",
+            "deliveryOwner": "Anna Arabadzhi",
+            "contacts": [
+                {
+                    "contactId": "1576533000170630443",
+                    "contactName": "Michel Masson",
+                    "contactLinkedIn": "http://www.linkedin.com/in/michel-masson-44684677",
+                    "mailingDay": "2022-09-09",
+                    "featured": [],
+                    "activity": []
+                }
+            ],
+            "jobs": []
+        },
+        "1576533000183137258": {
+            "name": "3S Media - Wordpress development (ref from Three Ships)",
+            "accountLinkedIn": "http://www.linkedin.com/company/threeships",
+            "salesOwner": "Igor Golovko",
+            "deliveryOwner": "Anna Arabadzhi",
+            "contacts": [
+                {
+                    "contactId": "1576533000189387292",
+                    "contactName": "Max Holloway",
+                    "contactLinkedIn": false,
+                    "mailingDay": null,
+                    "featured": [],
+                    "activity": []
+                }
+            ],
+            "jobs": [
+                {
+                    "jobTitle": "Senior WordPress Developer",
+                    "jobLink": "https://www.linkedin.com/jobs/view/3604669718/?alternateChannel=search&refId=OGAXx%2BgwWG2RGV%2FcXsWndA%3D%3D&trackingId=kyrfFqe044hay%2FY3ll0sJA%3D%3D&trk=d_flagship3_search_srp_jobs",
+                    "postedDate": "1 month ago",
+                    "technologies": "WordPress, JavaScript, PHP, AWS"
+                },
+                {
+                    "jobTitle": "Senior Front End Developer",
+                    "jobLink": "https://www.linkedin.com/jobs/view/3555471319/?alternateChannel=search&refId=OGAXx%2BgwWG2RGV%2FcXsWndA%3D%3D&trackingId=04qQGV5NtInbRdyB%2BAKS2g%3D%3D&trk=d_flagship3_search_srp_jobs",
+                    "postedDate": "1 month ago ",
+                    "technologies": "PHP, JavaScript, WordPress, jQuery, AWS, React, Vue, Angular"
+                }
+            ]
+        },
+        "1576533000168377335": {
+            "name": "Stepler - iOS-Andorid-Node.js-DevOps-BigData",
+            "accountLinkedIn": "http://www.linkedin.com/company/stepler",
+            "salesOwner": "Igor Golovko",
+            "deliveryOwner": "Mariia Kuchuhurna",
+            "contacts": [
+                {
+                    "contactId": "1576533000164810010",
+                    "contactName": "Daniel Malmqvist",
+                    "contactLinkedIn": "http://www.linkedin.com/in/danielmalmqvist",
+                    "mailingDay": "2022-06-03",
+                    "featured": [],
+                    "activity": [
+                        {
+                            "link": "https://www.linkedin.com/feed/update/urn:li:activity:7049667792823885824",
+                            "keywordsFound": "foundation"
+                        }
+                    ]
+                },
+                {
+                    "contactId": "1576533000214766170",
+                    "contactName": "Jonas Heilmann",
+                    "contactLinkedIn": false,
+                    "mailingDay": null,
+                    "featured": [],
+                    "activity": []
+                }
+            ],
+            "jobs": []
+        },
+        "1576533000164976865": {
+            "name": "Neural DSP - Embedded development",
+            "accountLinkedIn": "http://www.linkedin.com/company/neural-dsp-technologies",
+            "salesOwner": "Igor Golovko",
+            "deliveryOwner": "Sofiia Kubynets",
+            "contacts": [
+                {
+                    "contactId": "1576533000162233315",
+                    "contactName": "Timo Salmela",
+                    "contactLinkedIn": "http://www.linkedin.com/in/timosalmela",
+                    "mailingDay": "2022-05-12",
+                    "featured": [],
+                    "activity": []
+                },
+                {
+                    "contactId": "1576533000197115015",
+                    "contactName": "Raphael Motta",
+                    "contactLinkedIn": false,
+                    "mailingDay": null,
+                    "featured": [],
+                    "activity": []
+                },
+                {
+                    "contactId": "1576533000217933019",
+                    "contactName": "Aza Arsamakova",
+                    "contactLinkedIn": false,
+                    "mailingDay": null,
+                    "featured": [],
+                    "activity": []
+                },
+                {
+                    "contactId": "1576533000217933049",
+                    "contactName": "Cristian -",
+                    "contactLinkedIn": false,
+                    "mailingDay": null,
+                    "featured": [],
+                    "activity": []
+                },
+                {
+                    "contactId": "1576533000217933079",
+                    "contactName": "Megi -",
+                    "contactLinkedIn": false,
+                    "mailingDay": null,
+                    "featured": [],
+                    "activity": []
+                }
+            ],
+            "jobs": []
+        },
+        "1576533000164505327": {
+            "name": "Tawkify - team extension",
+            "accountLinkedIn": "http://www.linkedin.com/company/tawkify",
+            "salesOwner": "Anton Dobroditsky",
+            "deliveryOwner": "Mariia Kuchuhurna",
+            "contacts": [
+                {
+                    "contactId": "1576533000117710605",
+                    "contactName": "Joel Ficks",
+                    "contactLinkedIn": "http://www.linkedin.com/in/joel-ficks-95023",
+                    "mailingDay": "2022-05-12",
+                    "featured": [],
+                    "activity": []
+                },
+                {
+                    "contactId": "1576533000162787186",
+                    "contactName": "Patrick Shih",
+                    "contactLinkedIn": "https://www.linkedin.com/in/patrickshih",
+                    "mailingDay": "2021-05-03",
+                    "featured": [],
+                    "activity": []
+                },
+                {
+                    "contactId": "1576533000177866421",
+                    "contactName": "Mikael Castellani",
+                    "contactLinkedIn": false,
+                    "mailingDay": null,
+                    "featured": [],
+                    "activity": []
+                },
+                {
+                    "contactId": "1576533000189396168",
+                    "contactName": "Ben Hale",
+                    "contactLinkedIn": false,
+                    "mailingDay": null,
+                    "featured": [],
+                    "activity": []
+                }
+            ],
+            "jobs": [
+                {
+                    "jobTitle": "Senior Software Engineer",
+                    "jobLink": "https://www.linkedin.com/jobs/view/3551205475/?alternateChannel=search&refId=RdrKVqF8mscUXvhn6kZw7A%3D%3D&trackingId=gRn6RLaJg%2FaaESqVwtifnA%3D%3D&trk=d_flagship3_search_srp_jobs",
+                    "postedDate": "3 weeks ago ",
+                    "technologies": "React, JavaScript, TypeScript, Node, PHP, Python"
+                }
+            ]
+        },
+        "1576533000161589643": {
+            "name": "Greenmotion-PHP-JS",
+            "accountLinkedIn": "http://www.linkedin.com/company/green-motion",
+            "salesOwner": "Maryna Isaeva",
+            "deliveryOwner": "Anna Arabadzhi",
+            "contacts": [
+                {
+                    "contactId": "1576533000144643987",
+                    "contactName": "Chay Lowden",
+                    "contactLinkedIn": false,
+                    "mailingDay": "2022-05-03",
+                    "featured": [],
+                    "activity": []
+                }
+            ],
+            "jobs": []
+        },
+        "1576533000154720400": {
+            "name": "Playtika/Redecor app - Flutter and Node.js",
+            "accountLinkedIn": "https://www.linkedin.com/company/1919232",
+            "salesOwner": "Igor Golovko",
+            "deliveryOwner": "Snizhana Shevchenko",
+            "contacts": [
+                {
+                    "contactId": "1576533000122167131",
+                    "contactName": "Yevgeniy Maiboroda",
+                    "contactLinkedIn": false,
+                    "mailingDay": null,
+                    "featured": [],
+                    "activity": []
+                },
+                {
+                    "contactId": "1576533000167591447",
+                    "contactName": "Viktoria Zlenko",
+                    "contactLinkedIn": false,
+                    "mailingDay": null,
+                    "featured": [],
+                    "activity": []
+                },
+                {
+                    "contactId": "1576533000167591477",
+                    "contactName": "Vladimir Gryshaienko",
+                    "contactLinkedIn": false,
+                    "mailingDay": null,
+                    "featured": [],
+                    "activity": []
+                }
+            ],
+            "jobs": [
+                {
+                    "jobTitle": "Software Engineer (TypeScript)",
+                    "jobLink": "https://www.linkedin.com/jobs/view/3608199548/?alternateChannel=search&refId=N8%2BlQri2MFv5SwY06iCUUg%3D%3D&trackingId=sALiPlAG67Gkld02dngdiw%3D%3D&trk=d_flagship3_search_srp_jobs",
+                    "postedDate": "14 hours ago ",
+                    "technologies": "TypeScript, JavaScript, .NET, C#"
+                },
+                {
+                    "jobTitle": "React Developer",
+                    "jobLink": "https://www.linkedin.com/jobs/view/3608196847/?alternateChannel=search&refId=N8%2BlQri2MFv5SwY06iCUUg%3D%3D&trackingId=4L1Kqy%2BoZapIxt4t0087eg%3D%3D&trk=d_flagship3_search_srp_jobs",
+                    "postedDate": "14 hours ago ",
+                    "technologies": "React, TypeScript"
+                },
+                {
+                    "jobTitle": "Client Developer (C# and Typescript)",
+                    "jobLink": "https://www.linkedin.com/jobs/view/3614564523/?alternateChannel=search&refId=N8%2BlQri2MFv5SwY06iCUUg%3D%3D&trackingId=Y%2FDGME47po3aJhow7j2kzQ%3D%3D&trk=d_flagship3_search_srp_jobs",
+                    "postedDate": "23 hours ago ",
+                    "technologies": "C#, TypeScript, .NET, JavaScript"
+                },
+                {
+                    "jobTitle": "Java Software Engineer",
+                    "jobLink": "https://www.linkedin.com/jobs/view/3487190402/?alternateChannel=search&refId=N8%2BlQri2MFv5SwY06iCUUg%3D%3D&trackingId=ATfmnN4GRNpHb5PlIBNefg%3D%3D&trk=d_flagship3_search_srp_jobs",
+                    "postedDate": "1 week ago ",
+                    "technologies": "Java, Spring"
+                },
+                {
+                    "jobTitle": "Senior Unity Developer",
+                    "jobLink": "https://www.linkedin.com/jobs/view/3541524032/?alternateChannel=search&refId=N8%2BlQri2MFv5SwY06iCUUg%3D%3D&trackingId=Pkv1ud4TF3ftvzShWLuI9A%3D%3D&trk=d_flagship3_search_srp_jobs",
+                    "postedDate": "1 week ago ",
+                    "technologies": "C#, C++"
+                }
+            ]
+        },
+        "1576533000153616301": {
+            "name": "Winmore - Implementation Consultant",
+            "accountLinkedIn": "http://www.linkedin.com/company/winmorecloud",
+            "salesOwner": "Maryna Isaeva",
+            "deliveryOwner": "Daria Riumina",
+            "contacts": [
+                {
+                    "contactId": "1576533000143398505",
+                    "contactName": "Tiffany Zwolakowski",
+                    "contactLinkedIn": false,
+                    "mailingDay": null,
+                    "featured": [],
+                    "activity": []
+                },
+                {
+                    "contactId": "1576533000155438929",
+                    "contactName": "Winmore Finance Team",
+                    "contactLinkedIn": false,
+                    "mailingDay": null,
+                    "featured": [],
+                    "activity": []
+                },
+                {
+                    "contactId": "1576533000166719372",
+                    "contactName": "Anya Mosiychuk",
+                    "contactLinkedIn": false,
+                    "mailingDay": null,
+                    "featured": [],
+                    "activity": []
+                },
+                {
+                    "contactId": "1576533000185309433",
+                    "contactName": "Aaron Sasson",
+                    "contactLinkedIn": false,
+                    "mailingDay": "2022-09-13",
+                    "featured": [],
+                    "activity": []
+                }
+            ],
+            "jobs": []
+        },
+        "1576533000145032054": {
+            "name": "Novolyze - c#/angular",
+            "accountLinkedIn": "https://www.linkedin.com/company/2750751",
+            "salesOwner": "Anton Dobroditsky",
+            "deliveryOwner": "Anna Arabadzhi",
+            "contacts": [
+                {
+                    "contactId": "1576533000136721022",
+                    "contactName": "Jerome Defillon",
+                    "contactLinkedIn": "http://www.linkedin.com/in/jerome-defillon",
+                    "mailingDay": "2021-11-09",
+                    "featured": [],
+                    "activity": []
+                }
+            ],
+            "jobs": []
+        },
+        "1576533000140873433": {
+            "name": "Applicaster - React Native (Outstaff)",
+            "accountLinkedIn": "https://www.linkedin.com/company/applicaster-ltd",
+            "salesOwner": "Maryna Isaeva",
+            "deliveryOwner": "Daria Riumina",
+            "contacts": [
+                {
+                    "contactId": "1576533000131048562",
+                    "contactName": "Ran Meirman",
+                    "contactLinkedIn": "https://www.linkedin.com/in/ran-meirman-0842b54b",
+                    "mailingDay": "2021-10-22",
+                    "featured": [],
+                    "activity": []
+                },
+                {
+                    "contactId": "1576533000132767192",
+                    "contactName": "Elia Spector",
+                    "contactLinkedIn": false,
+                    "mailingDay": null,
+                    "featured": [],
+                    "activity": []
+                },
+                {
+                    "contactId": "1576533000185222746",
+                    "contactName": "Gabriel Guy",
+                    "contactLinkedIn": "https://www.linkedin.com/in/gabrielguy",
+                    "mailingDay": "2022-08-17",
+                    "featured": [],
+                    "activity": []
+                },
+                {
+                    "contactId": "1576533000192035215",
+                    "contactName": "Pawel Buderaski",
+                    "contactLinkedIn": false,
+                    "mailingDay": null,
+                    "featured": [],
+                    "activity": []
+                }
+            ],
+            "jobs": []
+        },
+        "1576533000138445855": {
+            "name": "Travello - Java engineering [Outsource]",
+            "accountLinkedIn": "https://www.linkedin.com/company/travello-app/about",
+            "salesOwner": "Igor Golovko",
+            "deliveryOwner": "Sofiia Kubynets",
+            "contacts": [
+                {
+                    "contactId": "1576533000134287605",
+                    "contactName": "Mark Cantoni",
+                    "contactLinkedIn": "http://www.linkedin.com/in/mark-cantoni-83108a62",
+                    "mailingDay": "2021-11-15",
+                    "featured": [],
+                    "activity": []
+                },
+                {
+                    "contactId": "1576533000154492472",
+                    "contactName": "Edgard Shipley",
+                    "contactLinkedIn": false,
+                    "mailingDay": null,
+                    "featured": [],
+                    "activity": []
+                },
+                {
+                    "contactId": "1576533000154492502",
+                    "contactName": "Ian Frentz",
+                    "contactLinkedIn": false,
+                    "mailingDay": null,
+                    "featured": [],
+                    "activity": []
+                }
+            ],
+            "jobs": []
+        },
+        "1576533000135787737": {
+            "name": "Auto Media - Full-Stack Development (ref from Three Ships)",
+            "accountLinkedIn": "http://www.linkedin.com/company/threeships",
+            "salesOwner": "Igor Golovko",
+            "deliveryOwner": "Anna Arabadzhi",
+            "contacts": [
+                {
+                    "contactId": "1576533000135787391",
+                    "contactName": "Christine Kershner",
+                    "contactLinkedIn": false,
+                    "mailingDay": null,
+                    "featured": [],
+                    "activity": []
+                },
+                {
+                    "contactId": "1576533000156050079",
+                    "contactName": "Fuad Talybov",
+                    "contactLinkedIn": false,
+                    "mailingDay": null,
+                    "featured": [],
+                    "activity": []
+                }
+            ],
+            "jobs": [
+                {
+                    "jobTitle": "Senior WordPress Developer",
+                    "jobLink": "https://www.linkedin.com/jobs/view/3604669718/?alternateChannel=search&refId=p%2BM5gtG4fcwQKHlNB%2BJd7w%3D%3D&trackingId=Fd7oUquNDR72W%2Fl%2FXT1m3w%3D%3D&trk=d_flagship3_search_srp_jobs",
+                    "postedDate": "1 month ago",
+                    "technologies": "WordPress, JavaScript, PHP, AWS"
+                },
+                {
+                    "jobTitle": "Senior Front End Developer",
+                    "jobLink": "https://www.linkedin.com/jobs/view/3555471319/?alternateChannel=search&refId=p%2BM5gtG4fcwQKHlNB%2BJd7w%3D%3D&trackingId=MVsWlOaoXNPkCKvUjgIQiw%3D%3D&trk=d_flagship3_search_srp_jobs",
+                    "postedDate": "1 month ago ",
+                    "technologies": "PHP, JavaScript, WordPress, jQuery, AWS, React, Vue, Angular"
+                }
+            ]
+        },
+        "1576533000132002305": {
+            "name": "Brocc_React/PHP/DevOps",
+            "accountLinkedIn": "https://www.linkedin.com/company/brocc",
+            "salesOwner": "Mariia Kuchuhurna",
+            "deliveryOwner": "Anna Arabadzhi",
+            "contacts": [
+                {
+                    "contactId": "1576533000140724932",
+                    "contactName": "Stig Johansson",
+                    "contactLinkedIn": "http://www.linkedin.com/in/stig-johansson-b8a20451",
+                    "mailingDay": "2021-11-26",
+                    "featured": [],
+                    "activity": [
+                        {
+                            "link": "https://www.linkedin.com/feed/update/urn:li:activity:6977665404798156800",
+                            "keywordsFound": "position, foundation"
+                        }
+                    ]
+                },
+                {
+                    "contactId": "1576533000143609169",
+                    "contactName": "Sami Wiktorin",
+                    "contactLinkedIn": false,
+                    "mailingDay": null,
+                    "featured": [],
+                    "activity": []
+                }
+            ],
+            "jobs": []
+        },
+        "1576533000129701001": {
+            "name": "Slerp - react",
+            "accountLinkedIn": "http://www.linkedin.com/company/slerp",
+            "salesOwner": "Anton Dobroditsky",
+            "deliveryOwner": "Daria Riumina",
+            "contacts": [
+                {
+                    "contactId": "1576533000118759024",
+                    "contactName": "Kai Price",
+                    "contactLinkedIn": false,
+                    "mailingDay": "2021-08-02",
+                    "featured": [],
+                    "activity": []
+                },
+                {
+                    "contactId": "1576533000154338993",
+                    "contactName": "Joanna Tan",
+                    "contactLinkedIn": false,
+                    "mailingDay": null,
+                    "featured": [],
+                    "activity": []
+                },
+                {
+                    "contactId": "1576533000167569564",
+                    "contactName": "Pedro Dias",
+                    "contactLinkedIn": false,
+                    "mailingDay": null,
+                    "featured": [],
+                    "activity": []
+                }
+            ],
+            "jobs": []
+        },
+        "1576533000126304466": {
+            "name": "Vanti Analytics - react/node",
+            "accountLinkedIn": "http://www.linkedin.com/company/vanti-analytics",
+            "salesOwner": "Anton Dobroditsky",
+            "deliveryOwner": "Daria Riumina",
+            "contacts": [
+                {
+                    "contactId": "1576533000124564618",
+                    "contactName": "Nir Osiroff",
+                    "contactLinkedIn": "http://www.linkedin.com/in/nir-osiroff",
+                    "mailingDay": "2021-09-06",
+                    "featured": [],
+                    "activity": [
+                        {
+                            "link": "https://www.linkedin.com/feed/update/urn:li:activity:6892462663822385153",
+                            "keywordsFound": "series a"
+                        },
+                        {
+                            "link": "https://www.linkedin.com/feed/update/urn:li:activity:6764955944766988288",
+                            "keywordsFound": "hiring"
+                        }
+                    ]
+                },
+                {
+                    "contactId": "1576533000128078787",
+                    "contactName": "Smadar David",
+                    "contactLinkedIn": "http://www.linkedin.com/in/smadardavid",
+                    "mailingDay": "2021-06-25",
+                    "featured": [],
+                    "activity": []
+                },
+                {
+                    "contactId": "1576533000128078896",
+                    "contactName": "Sagi Kovo",
+                    "contactLinkedIn": false,
+                    "mailingDay": null,
+                    "featured": [],
+                    "activity": []
+                },
+                {
+                    "contactId": "1576533000128078924",
+                    "contactName": "Guila Gateno",
+                    "contactLinkedIn": false,
+                    "mailingDay": null,
+                    "featured": [],
+                    "activity": []
+                },
+                {
+                    "contactId": "1576533000167569945",
+                    "contactName": "Elaya Shavrit",
+                    "contactLinkedIn": false,
+                    "mailingDay": null,
+                    "featured": [],
+                    "activity": []
+                },
+                {
+                    "contactId": "1576533000167569975",
+                    "contactName": "Rotem Hanegbi",
+                    "contactLinkedIn": false,
+                    "mailingDay": null,
+                    "featured": [],
+                    "activity": []
+                }
+            ],
+            "jobs": [
+                {
+                    "jobTitle": "Senior Full Stack Developer",
+                    "jobLink": "https://www.linkedin.com/jobs/view/3614089248/?alternateChannel=search&refId=RG3aOszHrfLDV0ZBFcUH6g%3D%3D&trackingId=Sm87gRCxnsrtXB3nAM3ugQ%3D%3D&trk=d_flagship3_search_srp_jobs",
+                    "postedDate": "1 day ago ",
+                    "technologies": "React, Node, JavaScript, AWS"
+                }
+            ]
+        },
+        "1576533000124120962": {
+            "name": "Quantium - .net",
+            "accountLinkedIn": "http://www.linkedin.com/company/quantium",
+            "salesOwner": "Anton Dobroditsky",
+            "deliveryOwner": "Maria Lutsenko",
+            "contacts": [
+                {
+                    "contactId": "1576533000122348627",
+                    "contactName": "Kyle Evans",
+                    "contactLinkedIn": false,
+                    "mailingDay": "2021-08-27",
+                    "featured": [],
+                    "activity": []
+                },
+                {
+                    "contactId": "1576533000148827044",
+                    "contactName": "Joe Borg",
+                    "contactLinkedIn": false,
+                    "mailingDay": null,
+                    "featured": [],
+                    "activity": []
+                },
+                {
+                    "contactId": "1576533000148827104",
+                    "contactName": "Daniel Larkin",
+                    "contactLinkedIn": false,
+                    "mailingDay": null,
+                    "featured": [],
+                    "activity": []
+                },
+                {
+                    "contactId": "1576533000187304031",
+                    "contactName": "Victor Bajanov",
+                    "contactLinkedIn": false,
+                    "mailingDay": null,
+                    "featured": [],
+                    "activity": []
+                }
+            ],
+            "jobs": [
+                {
+                    "jobTitle": "Infrastructure Engineer",
+                    "jobLink": "https://www.linkedin.com/jobs/view/3615170587/?alternateChannel=search&refId=ix1ofNwiV4Uc%2FgCYJAFY3A%3D%3D&trackingId=LWOnQXqNJMf8S0A8XQPQrA%3D%3D&trk=d_flagship3_search_srp_jobs",
+                    "postedDate": "7 hours ago ",
+                    "technologies": "Linux, Python, Ruby, Azure"
+                },
+                {
+                    "jobTitle": "IND (New) Senior ML Ops Engineer - wiq",
+                    "jobLink": "https://www.linkedin.com/jobs/view/3289308012/?alternateChannel=search&refId=ix1ofNwiV4Uc%2FgCYJAFY3A%3D%3D&trackingId=A8I1zJ2YD0oAmNQWLFu28w%3D%3D&trk=d_flagship3_search_srp_jobs",
+                    "postedDate": "1 day ago ",
+                    "technologies": "GCP, Linux, Python, Ruby"
+                },
+                {
+                    "jobTitle": "Senior Frontend Engineer - CBAiQ",
+                    "jobLink": "https://www.linkedin.com/jobs/view/3561773394/?alternateChannel=search&refId=ix1ofNwiV4Uc%2FgCYJAFY3A%3D%3D&trackingId=BVmF7mQ9TJa4OHNjh9w0lA%3D%3D&trk=d_flagship3_search_srp_jobs",
+                    "postedDate": "2 days ago ",
+                    "technologies": "React, TypeScript, Python, AWS"
+                },
+                {
+                    "jobTitle": "India (New) - Senior IT Support Engineer",
+                    "jobLink": "https://www.linkedin.com/jobs/view/3460089678/?alternateChannel=search&refId=ix1ofNwiV4Uc%2FgCYJAFY3A%3D%3D&trackingId=LddDCMolOBi%2FZeei%2Fl1mHQ%3D%3D&trk=d_flagship3_search_srp_jobs",
+                    "postedDate": "4 days ago ",
+                    "technologies": "Linux"
+                },
+                {
+                    "jobTitle": "Senior Salesforce Engineer",
+                    "jobLink": "https://www.linkedin.com/jobs/view/3588811849/?alternateChannel=search&refId=ix1ofNwiV4Uc%2FgCYJAFY3A%3D%3D&trackingId=mtmzp2DK%2F089HfIIaX9dVQ%3D%3D&trk=d_flagship3_search_srp_jobs",
+                    "postedDate": "4 days ago ",
+                    "technologies": "SalesForce, JavaScript, Python, Node, C#"
+                }
+            ]
+        },
+        "1576533000108069047": {
+            "name": "GpsGate - .net",
+            "accountLinkedIn": false,
+            "salesOwner": "Anton Dobroditsky",
+            "deliveryOwner": "Maria Lutsenko",
+            "contacts": [
+                {
+                    "contactId": "1576533000106942005",
+                    "contactName": "Johan Franson",
+                    "contactLinkedIn": "https://www.linkedin.com/in/johan-franson-2a9a1",
+                    "mailingDay": "2021-03-23",
+                    "featured": [],
+                    "activity": []
+                },
+                {
+                    "contactId": "1576533000126598687",
+                    "contactName": "Greg Gut",
+                    "contactLinkedIn": false,
+                    "mailingDay": null,
+                    "featured": [],
+                    "activity": []
+                }
+            ],
+            "jobs": []
+        },
+        "1576533000104222399": {
+            "name": "Three Ships - Wordpress development",
+            "accountLinkedIn": "http://www.linkedin.com/company/threeships",
+            "salesOwner": "Igor Golovko",
+            "deliveryOwner": "Anna Arabadzhi",
+            "contacts": [
+                {
+                    "contactId": "1576533000076644005",
+                    "contactName": "Rebekah Sedaca",
+                    "contactLinkedIn": "http://www.linkedin.com/in/rebekahsedaca",
+                    "mailingDay": "2020-12-10",
+                    "featured": [
+                        {
+                            "name": "Senior WordPress Developer (Tech Lead) at Three Ships",
+                            "type": "Post",
+                            "link": "https://www.linkedin.com/feed/update/urn:li:activity:6863863725791707136?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A6863863725791707136%29",
+                            "keywordsFound": "hiring"
+                        }
+                    ],
+                    "activity": [
+                        {
+                            "link": "https://www.linkedin.com/feed/update/urn:li:activity:6863863725791707136",
+                            "keywordsFound": "hiring"
+                        },
+                        {
+                            "link": "https://www.linkedin.com/feed/update/urn:li:activity:6849523561225306112",
+                            "keywordsFound": "position, hiring"
+                        },
+                        {
+                            "link": "https://www.linkedin.com/feed/update/urn:li:activity:6788170110373793792",
+                            "keywordsFound": "hiring"
+                        }
+                    ]
+                },
+                {
+                    "contactId": "1576533000107311100",
+                    "contactName": "Kayla Liddane",
+                    "contactLinkedIn": false,
+                    "mailingDay": null,
+                    "featured": [],
+                    "activity": []
+                },
+                {
+                    "contactId": "1576533000107311131",
+                    "contactName": "Nic Clark",
+                    "contactLinkedIn": false,
+                    "mailingDay": null,
+                    "featured": [],
+                    "activity": []
+                },
+                {
+                    "contactId": "1576533000167575762",
+                    "contactName": "Peter Marra",
+                    "contactLinkedIn": false,
+                    "mailingDay": null,
+                    "featured": [],
+                    "activity": []
+                },
+                {
+                    "contactId": "1576533000167575792",
+                    "contactName": "Marianna Mayers",
+                    "contactLinkedIn": false,
+                    "mailingDay": null,
+                    "featured": [],
+                    "activity": []
+                },
+                {
+                    "contactId": "1576533000189387257",
+                    "contactName": "Colby Loupe",
+                    "contactLinkedIn": false,
+                    "mailingDay": null,
+                    "featured": [],
+                    "activity": []
+                },
+                {
+                    "contactId": "1576533000212208003",
+                    "contactName": "Emily Ayers",
+                    "contactLinkedIn": false,
+                    "mailingDay": null,
+                    "featured": [],
+                    "activity": []
+                },
+                {
+                    "contactId": "1576533000212208033",
+                    "contactName": "Madison Payton",
+                    "contactLinkedIn": false,
+                    "mailingDay": null,
+                    "featured": [],
+                    "activity": []
+                }
+            ],
+            "jobs": [
+                {
+                    "jobTitle": "Senior WordPress Developer",
+                    "jobLink": "https://www.linkedin.com/jobs/view/3604669718/?alternateChannel=search&refId=wkWqfocy%2BtV21CXfxuqO2Q%3D%3D&trackingId=x21ZtoN9h%2BRD%2F9ZlPby9Kw%3D%3D&trk=d_flagship3_search_srp_jobs",
+                    "postedDate": "1 month ago",
+                    "technologies": "WordPress, JavaScript, PHP, AWS"
+                },
+                {
+                    "jobTitle": "Senior Front End Developer",
+                    "jobLink": "https://www.linkedin.com/jobs/view/3555471319/?alternateChannel=search&refId=wkWqfocy%2BtV21CXfxuqO2Q%3D%3D&trackingId=wRqh5j5RHU5nORD7%2Fao9ZA%3D%3D&trk=d_flagship3_search_srp_jobs",
+                    "postedDate": "1 month ago ",
+                    "technologies": "PHP, JavaScript, WordPress, jQuery, AWS, React, Vue, Angular"
+                }
+            ]
+        },
+        "1576533000100923102": {
+            "name": "TIMIFY- PHP & React",
+            "accountLinkedIn": "https://www.linkedin.com/company/timify",
+            "salesOwner": "Maryna Isaeva",
+            "deliveryOwner": "Christina Vasylyk",
+            "contacts": [
+                {
+                    "contactId": "1576533000098178576",
+                    "contactName": "Boyan Tanchev",
+                    "contactLinkedIn": "https://www.linkedin.com/in/boyantanchev",
+                    "mailingDay": "2021-01-18",
+                    "featured": [],
+                    "activity": [
+                        {
+                            "link": "https://www.linkedin.com/feed/update/urn:li:activity:7033886789459136512",
+                            "keywordsFound": "hiring"
+                        },
+                        {
+                            "link": "https://www.linkedin.com/feed/update/urn:li:activity:7033807037180321792",
+                            "keywordsFound": "foundation"
+                        }
+                    ]
+                },
+                {
+                    "contactId": "1576533000128290676",
+                    "contactName": "Deyan Spasov",
+                    "contactLinkedIn": false,
+                    "mailingDay": null,
+                    "featured": [],
+                    "activity": []
+                }
+            ],
+            "jobs": [
+                {
+                    "jobTitle": "React Engineer (m/f/d)",
+                    "jobLink": "https://www.linkedin.com/jobs/view/3604157066/?alternateChannel=search&refId=3Qp6mQ8nZLoA00qbNVWmDg%3D%3D&trackingId=jQ5N%2FRalbzsPxDQM000mrw%3D%3D&trk=d_flagship3_search_srp_jobs",
+                    "postedDate": "1 week ago ",
+                    "technologies": "React, JavaScript, ES6"
+                },
+                {
+                    "jobTitle": "Backend Developer: Node.js (m/f/d)",
+                    "jobLink": "https://www.linkedin.com/jobs/view/3583949736/?alternateChannel=search&refId=3Qp6mQ8nZLoA00qbNVWmDg%3D%3D&trackingId=s%2F5d%2BwrQ3Wp0WjsPSZgjMg%3D%3D&trk=d_flagship3_search_srp_jobs",
+                    "postedDate": "4 weeks ago ",
+                    "technologies": "Node"
+                }
+            ]
+        },
+        "1576533000100800804": {
+            "name": "NVGTN_E-commerce platform",
+            "accountLinkedIn": false,
+            "salesOwner": "Mariia Kuchuhurna",
+            "deliveryOwner": "Daria Riumina",
+            "contacts": [
+                {
+                    "contactId": "1576533000097379001",
+                    "contactName": "Brett Schneggenburger",
+                    "contactLinkedIn": "https://www.linkedin.com/in/brettschneggenburger",
+                    "mailingDay": null,
+                    "featured": [],
+                    "activity": []
+                }
+            ],
+            "jobs": []
+        },
+        "1576533000099811041": {
+            "name": "PayKey - iOS/Android",
+            "accountLinkedIn": "https://www.linkedin.com/company/paykey",
+            "salesOwner": "Igor Golovko",
+            "deliveryOwner": "Maria Lutsenko",
+            "contacts": [
+                {
+                    "contactId": "1576533000110610952",
+                    "contactName": "Sheila Kagan",
+                    "contactLinkedIn": "https://www.linkedin.com/in/sheila-kagan-a8856b2",
+                    "mailingDay": "2021-05-11",
+                    "featured": [],
+                    "activity": [
+                        {
+                            "link": "https://www.linkedin.com/feed/update/urn:li:activity:6899390199277961216",
+                            "keywordsFound": "position, investment"
+                        }
+                    ]
+                },
+                {
+                    "contactId": "1576533000212351001",
+                    "contactName": "Yuval Caner",
+                    "contactLinkedIn": false,
+                    "mailingDay": null,
+                    "featured": [],
+                    "activity": []
+                }
+            ],
+            "jobs": []
+        },
+        "1576533000098786962": {
+            "name": "Turf tank- flutter",
+            "accountLinkedIn": "http://www.linkedin.com/company/turf-tank-eu",
+            "salesOwner": "Anton Dobroditsky",
+            "deliveryOwner": "Daria Riumina",
+            "contacts": [
+                {
+                    "contactId": "1576533000091189505",
+                    "contactName": "Stefan Thilemann",
+                    "contactLinkedIn": "http://www.linkedin.com/in/stefan-thilemann-33a28115",
+                    "mailingDay": "2020-10-30",
+                    "featured": [],
+                    "activity": []
+                },
+                {
+                    "contactId": "1576533000130927310",
+                    "contactName": "Daniel Fischer",
+                    "contactLinkedIn": false,
+                    "mailingDay": null,
+                    "featured": [],
+                    "activity": []
+                }
+            ],
+            "jobs": []
+        },
+        "1576533000091208513": {
+            "name": "KPS UK - vue.js",
+            "accountLinkedIn": "https://www.linkedin.com/company/kpsuk/about",
+            "salesOwner": "Anton Dobroditsky",
+            "deliveryOwner": "Daria Riumina",
+            "contacts": [
+                {
+                    "contactId": "1576533000087276437",
+                    "contactName": "Tim Hillman",
+                    "contactLinkedIn": "http://www.linkedin.com/in/timhillman1",
+                    "mailingDay": "2020-11-03",
+                    "featured": [],
+                    "activity": [
+                        {
+                            "link": "https://www.linkedin.com/feed/update/urn:li:activity:7031927448489357312",
+                            "keywordsFound": "hiring"
+                        },
+                        {
+                            "link": "https://www.linkedin.com/feed/update/urn:li:activity:6957283024229015552",
+                            "keywordsFound": "hiring"
+                        },
+                        {
+                            "link": "https://www.linkedin.com/feed/update/urn:li:activity:6943462033291948032",
+                            "keywordsFound": "hiring"
+                        }
+                    ]
+                },
+                {
+                    "contactId": "1576533000089057457",
+                    "contactName": "Stephanie Wilson",
+                    "contactLinkedIn": false,
+                    "mailingDay": null,
+                    "featured": [],
+                    "activity": []
+                },
+                {
+                    "contactId": "1576533000142457105",
+                    "contactName": "Nik Dyankov",
+                    "contactLinkedIn": false,
+                    "mailingDay": null,
+                    "featured": [],
+                    "activity": []
+                },
+                {
+                    "contactId": "1576533000167569218",
+                    "contactName": "Paul McLellan",
+                    "contactLinkedIn": false,
+                    "mailingDay": null,
+                    "featured": [],
+                    "activity": []
+                },
+                {
+                    "contactId": "1576533000167569297",
+                    "contactName": "Hatty French",
+                    "contactLinkedIn": false,
+                    "mailingDay": null,
+                    "featured": [],
+                    "activity": []
+                }
+            ],
+            "jobs": []
+        },
+        "1576533000088918621": {
+            "name": "Lulalend - .NET Starter Lead",
+            "accountLinkedIn": "https://www.linkedin.com/company/lulalend",
+            "salesOwner": "Igor Golovko",
+            "deliveryOwner": "Mariia Kuchuhurna",
+            "contacts": [
+                {
+                    "contactId": "1576533000061578850",
+                    "contactName": "Neil Welman",
+                    "contactLinkedIn": "https://www.linkedin.com/in/neil-welman-032b0641",
+                    "mailingDay": "2020-03-19",
+                    "featured": [],
+                    "activity": [
+                        {
+                            "link": "https://www.linkedin.com/feed/update/urn:li:activity:7026859611148156929",
+                            "keywordsFound": "series a, series b, new series, investment"
+                        }
+                    ]
+                },
+                {
+                    "contactId": "1576533000108170588",
+                    "contactName": "Thomas McKinnon",
+                    "contactLinkedIn": false,
+                    "mailingDay": null,
+                    "featured": [],
+                    "activity": []
+                },
+                {
+                    "contactId": "1576533000143727824",
+                    "contactName": "Francois van der Heide",
+                    "contactLinkedIn": "https://www.linkedin.com/in/francois-van-der-heide-70b65014",
+                    "mailingDay": null,
+                    "featured": [],
+                    "activity": [
+                        {
+                            "link": "https://www.linkedin.com/feed/update/urn:li:activity:7063807861683810305",
+                            "keywordsFound": "hiring"
+                        },
+                        {
+                            "link": "https://www.linkedin.com/feed/update/urn:li:activity:7026489834802163712",
+                            "keywordsFound": "series a, series b, new series, investment"
+                        }
+                    ]
+                }
+            ],
+            "jobs": [
+                {
+                    "jobTitle": "Data Engineer",
+                    "jobLink": "https://www.linkedin.com/jobs/view/3605141252/?alternateChannel=search&refId=oHq5NQBF0sWWfR1jSpZOwA%3D%3D&trackingId=t5uSRKx7R0EJa9FbUoP%2FXg%3D%3D&trk=d_flagship3_search_srp_jobs",
+                    "postedDate": "5 days ago ",
+                    "technologies": "Azure, Python"
+                },
+                {
+                    "jobTitle": "Site Reliability Engineer",
+                    "jobLink": "https://www.linkedin.com/jobs/view/3600829160/?alternateChannel=search&refId=oHq5NQBF0sWWfR1jSpZOwA%3D%3D&trackingId=TAp%2FF40vYdiY0W%2FFxEqGUA%3D%3D&trk=d_flagship3_search_srp_jobs",
+                    "postedDate": "1 week ago ",
+                    "technologies": "Azure"
+                }
+            ]
+        },
+        "1576533000081840642": {
+            "name": "ComeOn Group - Xcaliber",
+            "accountLinkedIn": "https://www.linkedin.com/company/comeon-group",
+            "salesOwner": "Maryna Isaeva",
+            "deliveryOwner": "Snizhana Shevchenko",
+            "contacts": [
+                {
+                    "contactId": "1576533000115445459",
+                    "contactName": "Faye Denton",
+                    "contactLinkedIn": false,
+                    "mailingDay": null,
+                    "featured": [],
+                    "activity": []
+                },
+                {
+                    "contactId": "1576533000125762022",
+                    "contactName": "Linnea Holm",
+                    "contactLinkedIn": false,
+                    "mailingDay": null,
+                    "featured": [],
+                    "activity": []
+                },
+                {
+                    "contactId": "1576533000125762040",
+                    "contactName": "Linus Gustafsson",
+                    "contactLinkedIn": false,
+                    "mailingDay": null,
+                    "featured": [],
+                    "activity": []
+                },
+                {
+                    "contactId": "1576533000128290697",
+                    "contactName": "Mikael Ångman",
+                    "contactLinkedIn": false,
+                    "mailingDay": null,
+                    "featured": [],
+                    "activity": []
+                },
+                {
+                    "contactId": "1576533000128290715",
+                    "contactName": "Juergen Reutter",
+                    "contactLinkedIn": false,
+                    "mailingDay": null,
+                    "featured": [],
+                    "activity": []
+                }
+            ],
+            "jobs": [
+                {
+                    "jobTitle": "Senior Java Developer",
+                    "jobLink": "https://www.linkedin.com/jobs/view/3614492352/?alternateChannel=search&refId=6YhZ9jkYgN4VE2Otwl%2Fw%2FQ%3D%3D&trackingId=zeLduLRyA%2F7%2BHfobxmva3g%3D%3D&trk=d_flagship3_search_srp_jobs",
+                    "postedDate": "1 day ago ",
+                    "technologies": "Java, JavaScript, React, Linux, jQuery"
+                }
+            ]
+        },
+        "1576533000081041112": {
+            "name": "Skaarhoj - embedded/C++",
+            "accountLinkedIn": "http://www.linkedin.com/company/skaarhoj-k-s",
+            "salesOwner": "Anton Dobroditsky",
+            "deliveryOwner": "Daria Lykhanska",
+            "contacts": [
+                {
+                    "contactId": "1576533000078294203",
+                    "contactName": "Kasper Skaarhoj",
+                    "contactLinkedIn": "https://www.linkedin.com/in/kasper-skaarhoj-6873451",
+                    "mailingDay": "2020-08-18",
+                    "featured": [],
+                    "activity": [
+                        {
+                            "link": "https://www.linkedin.com/feed/update/urn:li:activity:6935182550315229184",
+                            "keywordsFound": "position"
+                        }
+                    ]
+                },
+                {
+                    "contactId": "1576533000084177728",
+                    "contactName": "Lukas Bachschwell",
+                    "contactLinkedIn": false,
+                    "mailingDay": null,
+                    "featured": [],
+                    "activity": []
+                },
+                {
+                    "contactId": "1576533000137903723",
+                    "contactName": "Christoffer Thinggaard",
+                    "contactLinkedIn": "https://www.linkedin.com/in/christofferthinggaard",
+                    "mailingDay": "2021-12-09",
+                    "featured": [],
+                    "activity": []
+                }
+            ],
+            "jobs": []
+        },
+        "1576533000074723370": {
+            "name": "Hubble Contacts-RoR-React",
+            "accountLinkedIn": "http://www.linkedin.com/company/hubble-contacts",
+            "salesOwner": "Maryna Isaeva",
+            "deliveryOwner": "Anna Arabadzhi",
+            "contacts": [
+                {
+                    "contactId": "1576533000065877480",
+                    "contactName": "Leo Royzengurt",
+                    "contactLinkedIn": "https://www.linkedin.com/in/leo-royzengurt-54242849",
+                    "mailingDay": "2020-06-09",
+                    "featured": [],
+                    "activity": []
+                }
+            ],
+            "jobs": [
+                {
+                    "jobTitle": "Principal Engineer",
+                    "jobLink": "https://www.linkedin.com/jobs/view/3590339139/?alternateChannel=search&refId=xqYYUfG8%2FMLytnuk%2Fzkj1w%3D%3D&trackingId=tuhTNJjr3Jr6d2OBmwHqww%3D%3D&trk=d_flagship3_search_srp_jobs",
+                    "postedDate": "1 month ago ",
+                    "technologies": "Ruby, JavaScript, Shopify, React"
+                }
+            ]
+        },
+        "1576533000072650165": {
+            "name": "jimdo-fe-be-fs",
+            "accountLinkedIn": "http://www.linkedin.com/company/jimdo",
+            "salesOwner": "Maryna Isaeva",
+            "deliveryOwner": "Anna Arabadzhi",
+            "contacts": [
+                {
+                    "contactId": "1576533000115445398",
+                    "contactName": "Miriam Ernst",
+                    "contactLinkedIn": false,
+                    "mailingDay": null,
+                    "featured": [],
+                    "activity": []
+                },
+                {
+                    "contactId": "1576533000232807066",
+                    "contactName": "Ahmet Gunes",
+                    "contactLinkedIn": false,
+                    "mailingDay": null,
+                    "featured": [],
+                    "activity": []
+                }
+            ],
+            "jobs": [
+                {
+                    "jobTitle": "Senior Data Engineer (m/f/d)",
+                    "jobLink": "https://www.linkedin.com/jobs/view/3612031300/?alternateChannel=search&refId=OPFzZzoYI0%2BkhcPBMHL92A%3D%3D&trackingId=ji8L2JaTqSVSLinC6MIrCQ%3D%3D&trk=d_flagship3_search_srp_jobs",
+                    "postedDate": "1 day ago ",
+                    "technologies": "AWS, Python"
+                },
+                {
+                    "jobTitle": "Senior Backend Engineer (m/f/d) - Payments Team",
+                    "jobLink": "https://www.linkedin.com/jobs/view/3579799081/?alternateChannel=search&refId=OPFzZzoYI0%2BkhcPBMHL92A%3D%3D&trackingId=4D1MBqrriGUzhE3qBV3flA%3D%3D&trk=d_flagship3_search_srp_jobs",
+                    "postedDate": "4 weeks ago ",
+                    "technologies": "Kotlin, Java, AWS, Azure, JavaScript, TypeScript, React"
+                },
+                {
+                    "jobTitle": "Senior Backend Engineer (m/f/d) - Payments Team",
+                    "jobLink": "https://www.linkedin.com/jobs/view/3579795108/?alternateChannel=search&refId=OPFzZzoYI0%2BkhcPBMHL92A%3D%3D&trackingId=AWkNFaHvPJvZnerVNYFEdQ%3D%3D&trk=d_flagship3_search_srp_jobs",
+                    "postedDate": "4 weeks ago ",
+                    "technologies": "Spring, Kotlin"
+                },
+                {
+                    "jobTitle": "Infrastructure Engineer (m/f/d) - Cloud Platform",
+                    "jobLink": "https://www.linkedin.com/jobs/view/3579792634/?alternateChannel=search&refId=OPFzZzoYI0%2BkhcPBMHL92A%3D%3D&trackingId=Cp3n%2FGBnH5ajABuTBL34bg%3D%3D&trk=d_flagship3_search_srp_jobs",
+                    "postedDate": "4 weeks ago ",
+                    "technologies": "AWS"
+                },
+                {
+                    "jobTitle": "Junior Backend Engineer (PHP) - (m/f/d)",
+                    "jobLink": "https://www.linkedin.com/jobs/view/3566494477/?alternateChannel=search&refId=OPFzZzoYI0%2BkhcPBMHL92A%3D%3D&trackingId=y%2FaSUGSuMi%2BTU%2FxeZ1mPoA%3D%3D&trk=d_flagship3_search_srp_jobs",
+                    "postedDate": "1 month ago ",
+                    "technologies": "PHP, Kotlin, JavaScript"
+                }
+            ]
+        },
+        "1576533000067288672": {
+            "name": "Adjust- monitoring system",
+            "accountLinkedIn": "https://www.linkedin.com/company/adjustcom/about",
+            "salesOwner": "Maryna Isaeva",
+            "deliveryOwner": "Daria Riumina",
+            "contacts": [
+                {
+                    "contactId": "1576533000065624001",
+                    "contactName": "Rashid Isayev",
+                    "contactLinkedIn": false,
+                    "mailingDay": null,
+                    "featured": [],
+                    "activity": []
+                },
+                {
+                    "contactId": "1576533000128523001",
+                    "contactName": "Matthew Sawasy",
+                    "contactLinkedIn": false,
+                    "mailingDay": null,
+                    "featured": [],
+                    "activity": []
+                },
+                {
+                    "contactId": "1576533000155157001",
+                    "contactName": "Marcella Coombs",
+                    "contactLinkedIn": false,
+                    "mailingDay": null,
+                    "featured": [],
+                    "activity": []
+                },
+                {
+                    "contactId": "1576533000155157031",
+                    "contactName": "Kat Kuhl",
+                    "contactLinkedIn": false,
+                    "mailingDay": null,
+                    "featured": [],
+                    "activity": []
+                },
+                {
+                    "contactId": "1576533000167591857",
+                    "contactName": "Robert Abraham",
+                    "contactLinkedIn": false,
+                    "mailingDay": null,
+                    "featured": [],
+                    "activity": []
+                },
+                {
+                    "contactId": "1576533000192035397",
+                    "contactName": "Hamid Jafarizadeh",
+                    "contactLinkedIn": false,
+                    "mailingDay": null,
+                    "featured": [],
+                    "activity": []
+                }
+            ],
+            "jobs": []
+        },
+        "1576533000055042002": {
+            "name": "freightcenter- php, laravel",
+            "accountLinkedIn": false,
+            "salesOwner": "Anton Dobroditsky",
+            "deliveryOwner": "Maria Lutsenko",
+            "contacts": [
+                {
+                    "contactId": "1576533000052030007",
+                    "contactName": "Justin Langley",
+                    "contactLinkedIn": false,
+                    "mailingDay": null,
+                    "featured": [],
+                    "activity": []
+                },
+                {
+                    "contactId": "1576533000054920679",
+                    "contactName": "Ali Choiniere",
+                    "contactLinkedIn": false,
+                    "mailingDay": null,
+                    "featured": [],
+                    "activity": []
+                },
+                {
+                    "contactId": "1576533000057668059",
+                    "contactName": "Amy Van Ness",
+                    "contactLinkedIn": false,
+                    "mailingDay": null,
+                    "featured": [],
+                    "activity": []
+                },
+                {
+                    "contactId": "1576533000074178002",
+                    "contactName": "Lindsay Horton",
+                    "contactLinkedIn": false,
+                    "mailingDay": null,
+                    "featured": [],
+                    "activity": []
+                },
+                {
+                    "contactId": "1576533000123186001",
+                    "contactName": "Marcos Arteaga",
+                    "contactLinkedIn": false,
+                    "mailingDay": null,
+                    "featured": [],
+                    "activity": []
+                }
+            ],
+            "jobs": []
+        },
+        "1576533000042178001": {
+            "name": "Scribd - Big Data",
+            "accountLinkedIn": "https://www.linkedin.com/company/129665",
+            "salesOwner": "Anton Dobroditsky",
+            "deliveryOwner": "Christina Vasylyk",
+            "contacts": [
+                {
+                    "contactId": "1576533000041766021",
+                    "contactName": "Tyler Croy",
+                    "contactLinkedIn": false,
+                    "mailingDay": null,
+                    "featured": [],
+                    "activity": []
+                },
+                {
+                    "contactId": "1576533000056578036",
+                    "contactName": "Alex Kushnir",
+                    "contactLinkedIn": false,
+                    "mailingDay": null,
+                    "featured": [],
+                    "activity": []
+                },
+                {
+                    "contactId": "1576533000192660043",
+                    "contactName": "Syed Afroz Hussain",
+                    "contactLinkedIn": false,
+                    "mailingDay": null,
+                    "featured": [],
+                    "activity": []
+                },
+                {
+                    "contactId": "1576533000197344003",
+                    "contactName": "Ben Shaw",
+                    "contactLinkedIn": false,
+                    "mailingDay": null,
+                    "featured": [],
+                    "activity": []
+                }
+            ],
+            "jobs": [
+                {
+                    "jobTitle": "Analytics Engineer, Paid Marketing",
+                    "jobLink": "https://www.linkedin.com/jobs/view/3584833462/?alternateChannel=search&refId=sbnccyr%2Fko28lgW%2FuE3NIg%3D%3D&trackingId=wkxK59S%2BoaQIKkADZJzP1w%3D%3D&trk=d_flagship3_search_srp_jobs",
+                    "postedDate": "6 days ago ",
+                    "technologies": "Python"
+                },
+                {
+                    "jobTitle": "Analytics Engineer, Paid Marketing",
+                    "jobLink": "https://www.linkedin.com/jobs/view/3584834482/?alternateChannel=search&refId=sbnccyr%2Fko28lgW%2FuE3NIg%3D%3D&trackingId=1Vma4I2xF%2FBtWOy5OPb4QQ%3D%3D&trk=d_flagship3_search_srp_jobs",
+                    "postedDate": "1 week ago ",
+                    "technologies": "Python"
+                },
+                {
+                    "jobTitle": "Director, Frontend Engineering",
+                    "jobLink": "https://www.linkedin.com/jobs/view/3564640401/?alternateChannel=search&refId=sbnccyr%2Fko28lgW%2FuE3NIg%3D%3D&trackingId=2fNG45Cx5y887cSLOXH%2BJA%3D%3D&trk=d_flagship3_search_srp_jobs",
+                    "postedDate": "2 weeks ago ",
+                    "technologies": "React"
+                },
+                {
+                    "jobTitle": "Director, Frontend Engineering",
+                    "jobLink": "https://www.linkedin.com/jobs/view/3564638540/?alternateChannel=search&refId=sbnccyr%2Fko28lgW%2FuE3NIg%3D%3D&trackingId=ezzIrZ59NMNVQNWY51PZ%2FQ%3D%3D&trk=d_flagship3_search_srp_jobs",
+                    "postedDate": "2 weeks ago ",
+                    "technologies": "React"
+                }
+            ]
+        },
+        "1576533000032749688": {
+            "name": "Real Automation-js",
+            "accountLinkedIn": "https://www.linkedin.com/company/real-automation-solutions",
+            "salesOwner": "Andrey Fatieiev",
+            "deliveryOwner": "Maria Lutsenko",
+            "contacts": [
+                {
+                    "contactId": "1576533000031793859",
+                    "contactName": "Kim Mayberry",
+                    "contactLinkedIn": "https://www.linkedin.com/in/hotdocs",
+                    "mailingDay": null,
+                    "featured": [],
+                    "activity": []
+                },
+                {
+                    "contactId": "1576533000032412873",
+                    "contactName": "Lowell Stewart",
+                    "contactLinkedIn": false,
+                    "mailingDay": null,
+                    "featured": [],
+                    "activity": []
+                }
+            ],
+            "jobs": []
+        },
+        "1576533000032503001": {
+            "name": "Linortek-embedded_c",
+            "accountLinkedIn": "https://www.linkedin.com/company/linor-technology-inc-",
+            "salesOwner": "Andrey Fatieiev",
+            "deliveryOwner": "Sofiia Kubynets",
+            "contacts": [
+                {
+                    "contactId": "1576533000013663392",
+                    "contactName": "Gary Nalven",
+                    "contactLinkedIn": "http://www.linkedin.com/profile/view?id=31183438",
+                    "mailingDay": "2019-09-18",
+                    "featured": [],
+                    "activity": []
+                },
+                {
+                    "contactId": "1576533000032412862",
+                    "contactName": "Liyu Nalven",
+                    "contactLinkedIn": false,
+                    "mailingDay": null,
+                    "featured": [],
+                    "activity": []
+                },
+                {
+                    "contactId": "1576533000052446161",
+                    "contactName": "Henry Nalven",
+                    "contactLinkedIn": false,
+                    "mailingDay": null,
+                    "featured": [],
+                    "activity": []
+                }
+            ],
+            "jobs": []
+        },
+        "1576533000031711277": {
+            "name": "BMAT - Python/Mongo",
+            "accountLinkedIn": "https://www.linkedin.com/company/bmat",
+            "salesOwner": "Andrey Fatieiev",
+            "deliveryOwner": "Christina Vasylyk",
+            "contacts": [
+                {
+                    "contactId": "1576533000030854135",
+                    "contactName": "Pedro Cano",
+                    "contactLinkedIn": "https://www.linkedin.com/in/pedrocano",
+                    "mailingDay": "2022-07-26",
+                    "featured": [],
+                    "activity": []
+                },
+                {
+                    "contactId": "1576533000060767267",
+                    "contactName": "Jordi Feliu",
+                    "contactLinkedIn": false,
+                    "mailingDay": null,
+                    "featured": [],
+                    "activity": []
+                },
+                {
+                    "contactId": "1576533000166719404",
+                    "contactName": "Inés Vicente",
+                    "contactLinkedIn": false,
+                    "mailingDay": null,
+                    "featured": [],
+                    "activity": []
+                },
+                {
+                    "contactId": "1576533000198137007",
+                    "contactName": "Jaume Vintro",
+                    "contactLinkedIn": false,
+                    "mailingDay": null,
+                    "featured": [],
+                    "activity": []
+                }
+            ],
+            "jobs": [
+                {
+                    "jobTitle": "Software Engineer - Operations",
+                    "jobLink": "https://www.linkedin.com/jobs/view/3594261525/?alternateChannel=search&refId=Igp8Xb%2FsxvQs92M3ixcXWA%3D%3D&trackingId=iCuOEHWwfEJWiwNMvSfPJA%3D%3D&trk=d_flagship3_search_srp_jobs",
+                    "postedDate": "2 weeks ago ",
+                    "technologies": "Python, Django, AWS"
+                }
+            ]
+        },
+        "1576533000029316205": {
+            "name": "QuantaVerse-python",
+            "accountLinkedIn": "https://www.linkedin.com/company/quantaverse",
+            "salesOwner": "Andrey Fatieiev",
+            "deliveryOwner": "Daria Lykhanska",
+            "contacts": [
+                {
+                    "contactId": "1576533000029096327",
+                    "contactName": "Phil McLaughlin",
+                    "contactLinkedIn": "https://www.linkedin.com/in/phil-mclaughlin-bb79743",
+                    "mailingDay": null,
+                    "featured": [],
+                    "activity": []
+                },
+                {
+                    "contactId": "1576533000197115083",
+                    "contactName": "Peter Constantinidis",
+                    "contactLinkedIn": false,
+                    "mailingDay": null,
+                    "featured": [],
+                    "activity": []
+                }
+            ],
+            "jobs": []
+        },
+        "1576533000007624061": {
+            "name": "E-Builder-mean",
+            "accountLinkedIn": "https://www.linkedin.com/company/e-builder",
+            "salesOwner": "Andrey Fatieiev",
+            "deliveryOwner": "Daria Riumina",
+            "contacts": [
+                {
+                    "contactId": "1576533000051816101",
+                    "contactName": "John Maliani",
+                    "contactLinkedIn": false,
+                    "mailingDay": null,
+                    "featured": [],
+                    "activity": []
+                },
+                {
+                    "contactId": "1576533000051816160",
+                    "contactName": "Ashley Sonntag",
+                    "contactLinkedIn": false,
+                    "mailingDay": null,
+                    "featured": [],
+                    "activity": []
+                },
+                {
+                    "contactId": "1576533000083628566",
+                    "contactName": "Michael Mattera",
+                    "contactLinkedIn": false,
+                    "mailingDay": null,
+                    "featured": [],
+                    "activity": []
+                },
+                {
+                    "contactId": "1576533000167536935",
+                    "contactName": "Jenna Kendell",
+                    "contactLinkedIn": false,
+                    "mailingDay": null,
+                    "featured": [],
+                    "activity": []
+                },
+                {
+                    "contactId": "1576533000167536965",
+                    "contactName": "Jim Stricker",
+                    "contactLinkedIn": false,
+                    "mailingDay": null,
+                    "featured": [],
+                    "activity": []
+                }
+            ],
+            "jobs": []
+        },
+        "1576533000004758119": {
+            "name": "OnlineRewards - iOS/Android",
+            "accountLinkedIn": "https://www.linkedin.com/company/online-rewards",
+            "salesOwner": "Andrey Fatieiev",
+            "deliveryOwner": "Maria Lutsenko",
+            "contacts": [
+                {
+                    "contactId": "1576533000002084375",
+                    "contactName": "Michael Levy",
+                    "contactLinkedIn": "https://www.linkedin.com/in/michael-levy-b798189",
+                    "mailingDay": null,
+                    "featured": [],
+                    "activity": [
+                        {
+                            "link": "https://www.linkedin.com/feed/update/urn:li:activity:7021868094658674688",
+                            "keywordsFound": "investment"
+                        }
+                    ]
+                },
+                {
+                    "contactId": "1576533000032927001",
+                    "contactName": "David Arnold",
+                    "contactLinkedIn": false,
+                    "mailingDay": null,
+                    "featured": [],
+                    "activity": []
+                }
+            ],
+            "jobs": []
+        }
+    }
+}
